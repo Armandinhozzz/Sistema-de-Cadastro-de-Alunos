@@ -44,6 +44,10 @@ Este projeto foi desenvolvido com fins educacionais, para praticar:
 3. Remover aluno por nome
 0. Sair
 
+* Exemplo em imagens
+ ![Menu](imgs/menu.png)
+ ![Listagem](imgs/listagem.png)
+
 * Observações
 - Os dados são salvos automaticamente no arquivo "alunos.txt"
 - Se o arquivo não existir, ele será criado
