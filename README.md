@@ -45,8 +45,11 @@ Este projeto foi desenvolvido com fins educacionais, para praticar:
 0. Sair
 
 * Exemplo em imagens
- ![Menu](imgs/menu.png)
- ![Listagem](imgs/listagem.png)
+
+ ![Image](https://github.com/user-attachments/assets/e6fdb14b-f512-418c-ac42-adc1f5d24f20)
+<div>
+ <img src="https://github.com/user-attachments/assets/f1d93add-ddda-4ba5-b525-788ed641d68b" width="350px" />
+</div>
 
 * Observações
 - Os dados são salvos automaticamente no arquivo "alunos.txt"
